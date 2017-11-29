@@ -13,5 +13,7 @@ public class MainClass {
 		System.out.println("Good morning...!");
 		System.out.println("Welcome to CAPGEMINI");
 		System.out.println("Hello....");
+		System.out.println("hai....");
+		System.out.println("hai....");
 	}
 }
