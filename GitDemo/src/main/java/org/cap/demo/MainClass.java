@@ -11,5 +11,6 @@ public class MainClass {
 	public static void greetings()
 	{
 		System.out.println("Good morning...!");
+		System.out.println("Welcome to CAPGEMINI");
 	}
 }
