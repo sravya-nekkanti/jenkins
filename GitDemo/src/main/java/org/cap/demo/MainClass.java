@@ -5,6 +5,7 @@ public class MainClass {
 	public static void main(String[] args) {
 		OrderClass order=new OrderClass();
 		order.display();
+		order.show();
 		greetings();
 	}
 	
