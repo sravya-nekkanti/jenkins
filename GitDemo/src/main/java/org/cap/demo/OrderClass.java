@@ -6,10 +6,10 @@ public class OrderClass {
 	public void display()
 	{
 		int sum=0;
-		for(int n:a)
+		for(int i=0;i<6;i++)
 		{
-			sum+=n;
-			System.out.println(n);
+			sum+=i;
+			System.out.println(a[i]);
 		}
 		System.out.println("sum is "+sum);
 		System.out.println("Enhanced loop");
